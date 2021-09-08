@@ -6,6 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Coding-Decoded)
 
+&show_icons=true&theme=radical
+
 [![Coding Decoded's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunchit&show_icons=true&theme=radical)](https://github.com/Sunchit/Coding-Decoded)
 
 <!--
