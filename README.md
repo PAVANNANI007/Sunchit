@@ -4,7 +4,7 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=Coding-Decoded)
+![](https://komarev.com/ghpvc/?username=Sunchit)(https://github.com/Sunchit/Coding-Decoded)
 
 [![Coding Decoded's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunchit)](https://github.com/Sunchit/Coding-Decoded)
 
