@@ -8,7 +8,10 @@
 
 ### :zap: Coding Decoded Github Stats
 
-[![Coding Decoded's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunchit&show_icons=true&theme=Gradient)](https://github.com/Sunchit/Coding-Decoded)
+[![Coding Decoded's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunchit&show_icons=true&theme=Radical)](https://github.com/Sunchit/Coding-Decoded)
+
+
+[![Coding Decoded's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sunchit&theme=dracula)](https://github.com/Sunchit/Coding-Decoded)
 
 <!--
 **Sunchit/Sunchit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
