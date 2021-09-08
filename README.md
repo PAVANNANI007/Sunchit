@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Coding-Decoded)
 
-[![Coding Decoded's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunchit)](https://github.com/Sunchit/Coding-Decoded)
+[![Coding Decoded's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunchit&show_icons=true&theme=radical)](https://github.com/Sunchit/Coding-Decoded)
 
 <!--
 **Sunchit/Sunchit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
