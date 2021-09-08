@@ -1,11 +1,16 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width:100%;" width="29px"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" style="max-width:100%;" width="24px">
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<p>
+  <h1 align="center"><b>Hello there, I'm Sunchit Dudeja 👋</b></h1>
+</p>
+
 
 ![](https://komarev.com/ghpvc/?username=Coding-Decoded)
 
-![](https://hit.yhype.me/github/profile?user_id=25297824)
 
 <!--
 **Sunchit/Sunchit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width:100%;" width="29px"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" style="max-width:100%;" width="24px">
 
 Here are some ideas to get you started:
 
