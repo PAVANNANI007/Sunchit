@@ -1,6 +1,8 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width:100%;" width="29px"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" style="max-width:100%;" width="24px">
 
-![](https://komarev.com/ghpvc/?username=sunchit/Coding-Decoded)
+![](https://komarev.com/ghpvc/?username=Coding-Decoded)
+
+![Profile views](https://gpvc.arturio.dev/Coding-Decoded)
 
 <!--
 **Sunchit/Sunchit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
